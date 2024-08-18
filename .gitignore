@@ -1,0 +1,25 @@
+.DS_Store
+/.build
+/Packages
+xcuserdata/
+DerivedData/
+.swiftpm/configuration/registries.json
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.netrc
+
+# Build artifacts
+.build/
+
+# IDE-specific files
+.xcodeproj
+.xcworkspace
+.swiftpm
+xcuserdata
+
+# Dependency management
+Packages/
+Package.resolved
+Package.pins
+
+# Testing and debugging
+DerivedData
